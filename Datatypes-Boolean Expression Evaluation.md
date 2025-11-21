@@ -25,11 +25,6 @@ print("b is",b)
 print("c:",c)
 print("d:",d)
 ```
-```
-Name:RAJA GOPAL V
-Reg No:212223240134
-```
-
 ## Output
 ![image](https://github.com/user-attachments/assets/7ac2cde8-ba52-4e34-8835-0f4dce93bd87)
 
